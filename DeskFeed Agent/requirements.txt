@@ -1,6 +1,6 @@
 requests>=2.31.0
 python-socketio>=5.11.0
-python-dotenv>=1.0.1
+python-dotenv>=1.2.2
 psutil>=5.9.8
 pywin32>=311
 opencv-python>=4.9.0
